@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>aurieh.services</title>
+		<style>
+		* {
+			background-color: rgb(20, 20, 20);
+			color: #c7c7c7
+		}
+		.blink {
+			animation: blinker 0.5s alternate infinite;
+		} /* i have no idea how CSS animations work but they do /shrug */
+
+		@keyframes blinker {
+			100% {
+				opacity: 0;
+			}
+		}
+		.vertical-center {
+			margin: 0;
+			position: absolute;
+			top: 50%;
+			-ms-transform: translateY(-50%);
+			transform: translateY(-50%);
+		}
+		
+		</style>
+		
+	</head>
+	<body style="font-family: monospace">
+		<div style="transform: translateX(40%)" class="vertical-center">
+			<ul>
+				<li> *.aurieh.services </li>
+				<li> foxes-are.best </li>
+				<li> </li>
+			</ul>
+			<pre>   <a href="https://aurieh.services">back</a></pre>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>aurieh.services</title>
+		<style>
+		* {
+			background-color: rgb(20, 20, 20);
+			color: #c7c7c7
+		}
+		.blink {
+			animation: blinker 0.5s alternate infinite;
+		} /* i have no idea how CSS animations work but they do /shrug */
+
+		@keyframes blinker {
+			0% {
+				opacity: 0;
+			}
+			100% {
+				opacity 1;
+			}
+		}
+		.vertical-center {
+			margin: 0;
+			position: absolute;
+			top: 50%;
+			-ms-transform: translateY(-50%);
+			transform: translateY(calc(-50% - .5px));
+		}
+		</style>
+	</head>
+	<body>
+		<div class="vertical-center">
+			<pre>
+			<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/501">Not Implemented</a>
+			
+			███████╗ ██████╗  ██╗
+			██╔════╝██╔═████╗███║
+			███████╗██║██╔██║╚██║
+			╚════██║████╔╝██║ ██║
+			███████║╚██████╔╝ ██║<span class="blink">███████╗</span>
+			╚══════╝ ╚═════╝  ╚═╝<span class="blink">╚══════╝</span>                
+			What'd you even request?
+			<span style="opacity: 0.5;">// seriously, send us an email at hello@aurieh.services</span>			         
+			</pre>
+			</div>
+	</body>
+</html>

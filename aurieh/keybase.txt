@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/puggo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aurieh.services
+  * I am puggo (https://keybase.io/puggo) on keybase.
+  * I have a public key ASDsVp5LzrKSIQOd279hteJf6lvFR1qY-2vBeSc4yVab0wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ec569e4bceb29221039ddbbf61b5e25fea5bc5475a98fb6bc1792738c9569bd30a",
+      "host": "keybase.io",
+      "kid": "0120ec569e4bceb29221039ddbbf61b5e25fea5bc5475a98fb6bc1792738c9569bd30a",
+      "uid": "632e65face5dda4e24d14bfc8cf26719",
+      "username": "puggo"
+    },
+    "merkle_root": {
+      "ctime": 1587253384,
+      "hash": "009647001c59d92ead35f5b706732d124285abdeb08d206963e92e51078fe3c9c4ac2f5b1a79b5c4bad70aa35ae50d44ef689eed8025a42a0fda2ca7b7efd72c",
+      "hash_meta": "634db9a3bd4fceeae2d427672678a923d61e509815005c3f8e153f403e664a66",
+      "seqno": 15973064
+    },
+    "service": {
+      "entropy": "0XGqfxjRmcYCSWE1nSlByOsM",
+      "hostname": "aurieh.services",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.0"
+  },
+  "ctime": 1587253395,
+  "expire_in": 504576000,
+  "prev": "0685f66714f7fa8c260094df41cf6774e09112586eff710764d3ec9eaa41228f",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7FaeS86ykiEDndu/YbXiX+pbxUdamPtrwXknOMlWm9MKp3BheWxvYWTESpcCCcQgBoX2ZxT3+owmAJTfQc9ndOCRElhu/3EHZNPsnqpBIo/EIOe8KTB9R+siOtEMWX0nPvXZWANkjm7UWJDjMG9tR1BZAgHCo3NpZ8RAboLM3TBh+E5G0hLxIphdYjuyJT8fEZWzrRl+j5/X/GBv9iKYcC92KXkhdsrLAkDuHLUu/ZsLRy/+8LXa0d67BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKgGnY8jxgUix5XoBneZZi8FqScAz8IHb2TkjFTlBtTHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/puggo
+
+==================================================================
